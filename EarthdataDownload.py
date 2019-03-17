@@ -7,7 +7,7 @@
 # https://disc.gsfc.nasa.gov/datasets?page=1&project=GLDAS
 # 
 # Department of Earth Sciences, Uppsala University
-# Shunan Feng   fsn.1995@gmail.com 
+# Shunan Feng: fsn.1995@gmail.com 
 # 20190317
 #---------------------------------------------------------------------------------
 
@@ -62,14 +62,15 @@ class SessionWithHeaderRedirection(requests.Session):
   
 # create session with the user credentials that will be used to authenticate access to the data
  
-username = "username"
+username = "username" # change here
  
-password= "password"
+password= "password" # change here
  
 session = SessionWithHeaderRedirection(username, password)
  
   
- # the url of the file we wish to retrieve
+# the url of the file we wish to retrieve; excute line by line from link list
+
 f = open("LINKLIST.txt", "r") # I usually remove the first link of the pdf file
 x = f.readlines()
 f.close()
