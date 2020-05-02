@@ -10,6 +10,7 @@ Here the screenshot is confirmed cases from three countries that I had lived.
 Interactive figures or maps for:
 - Global Annual Temperature Anomaly Interactive scatter plots with lowess trendlines
 - COVID-19 related spatial visualization
+![python1](pic/python1.png)   
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
 This is used to bulk download data from earthdata.nasa.gov. Input required is the link list.
