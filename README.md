@@ -6,11 +6,19 @@ Scripts or jupyter notebooks for processing, visualizing and analyzing data.
 Benford's law is an interesting theory so I did some experiment with covid-19 data. It's out of my specialization so there's no gurantee in the accuracy and quality of this analysis. Be doubtful and just for fun.
 Here the screenshot is confirmed cases from three countries that I had lived. 
 ![benford](pic/covidBenford.png)    
-### 1.2 [time series data visualization](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/timeSeriesDataVisual.ipynb)
+### 1.2 [data visualization](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/DataVisual.ipynb)
 Interactive figures or maps for:
 - Global Annual Temperature Anomaly Interactive scatter plots with lowess trendlines
 - COVID-19 related spatial visualization
-![python1](pic/python1.png)   
+
+![python1](pic\python1.png)   
+- Time series bubble plots
+
+![python2](pic\disaster.png)
+- time series heatmap of drought condition
+
+![python3](pic\droughtHeat.png)
+
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
 This is used to bulk download data from earthdata.nasa.gov. Input required is the link list.
