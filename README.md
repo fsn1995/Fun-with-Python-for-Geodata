@@ -8,17 +8,20 @@ Here the screenshot is confirmed cases from three countries that I had lived.
 ![benford](pic/covidBenford.png)    
 ### 1.2 [data visualization](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/DataVisual.ipynb)
 Interactive figures or maps for:
-- Global Annual Temperature Anomaly Interactive scatter plots with lowess trendlines
-- COVID-19 related spatial visualization
+1) Global Annual Temperature Anomaly Interactive scatter plots with lowess trendlines
+2) COVID-19 related spatial visualization
 
 ![python1](pic/python1.png)   
+3) Time series plots
 - Time series bubble plots
 
 ![python2](pic/disaster.png)
 - time series heatmap of drought condition
 
 ![python3](pic/droughtHeat.png)
+- Mass Balance of Storglaciären
 
+![python4](pic/storglaciaren.png)
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
 This is used to bulk download data from earthdata.nasa.gov. Input required is the link list.
