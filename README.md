@@ -21,7 +21,7 @@ Interactive figures or maps for:
 ![python3](pic/droughtHeat.png)
 - Mass Balance of Storglaciären
 
-![python4](pic/storglaciaren.png)
+![python4](pic/storglaciaren2.png)
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
 This is used to bulk download data from earthdata.nasa.gov. Input required is the link list.
