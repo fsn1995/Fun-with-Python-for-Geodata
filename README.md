@@ -11,13 +11,13 @@ Interactive figures or maps for:
 - Global Annual Temperature Anomaly Interactive scatter plots with lowess trendlines
 - COVID-19 related spatial visualization
 
-![python1](pic\python1.png)   
+![python1](pic/python1.png)   
 - Time series bubble plots
 
-![python2](pic\disaster.png)
+![python2](pic/disaster.png)
 - time series heatmap of drought condition
 
-![python3](pic\droughtHeat.png)
+![python3](pic/droughtHeat.png)
 
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
