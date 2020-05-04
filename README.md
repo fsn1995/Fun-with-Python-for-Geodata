@@ -22,6 +22,10 @@ Interactive figures or maps for:
 - Mass Balance of Storglaciären
 
 ![python4](pic/storglaciaren2.png)
+4) Mapping the World
+- **Global Airports Connection Interactive Map**, inspired by altair template and OpenFlights.org. An html page is also provided [here](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/airportConnection.html)
+
+![python5](pic/airportconnection.png)
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
 This is used to bulk download data from earthdata.nasa.gov. Input required is the link list.
