@@ -13,8 +13,12 @@ Interactive figures or maps for:
 <img src="pic/temp.png" width="70%" height="70%">
 
 #### 1.2.2 COVID-19 related spatial visualization
-<img align="left" src="pic/totalcasecovid19.png" width="50%" >
-<img align="right" src="pic/testcovid19.png" width="50%" >
+Total cases                | Tests per thousand people
+:--------------------------------------------------:|:--------------------------------------------------:
+<img src="pic/totalcasecovid19.png" width="100%" >  |  <img src="pic/testcovid19.png" width="100%" >
+
+
+
 
 #### 1.2.3 Time series plots
 - **Time series bubble plots**
