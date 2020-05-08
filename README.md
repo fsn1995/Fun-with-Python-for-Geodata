@@ -1,7 +1,7 @@
 # Fun with Python for Geodata
 Personal practices in geodata analysis with python.
 ## 1. Data Visulization
-Scripts or jupyter notebooks for processing, visualizing and analyzing data. Some are exported as interactive html files in [dataVisualization](https://github.com/fsn1995/Fun-with-Python-for-Geodata/tree/master/dataVisualization/dataVisualHTML) folder.
+Scripts or jupyter notebooks for processing, visualizing and analyzing data. Some are exported as interactive html files in [**dataVisualization**](https://github.com/fsn1995/Fun-with-Python-for-Geodata/tree/master/dataVisualization/dataVisualHTML) folder.
 ### 1.1 [covid-19 and Benford's law](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/covid19Benford.ipynb)
 Benford's law is an interesting theory so I did some experiment with covid-19 data. It's out of my specialization so there's no gurantee in the accuracy and quality of this analysis. Be doubtful and just for fun.
 Here the screenshot is confirmed cases from three countries that I had lived. 
@@ -13,21 +13,22 @@ Interactive figures or maps for:
 <img src="pic/temp.png" width="70%" height="70%">
 
 #### 1.2.2 COVID-19 related spatial visualization
-Total cases                | Tests per thousand people
-:--------------------------------------------------:|:--------------------------------------------------:
-<img src="pic/totalcasecovid19.png" width="100%" >  |  <img src="pic/testcovid19.png" width="100%" >
+- Total test per thousand people
 
+<img src="pic/testcovid19.png" width="70%" >
 
+- Comparison of COVID-19 Case Growth and Government Response Stringency Index
 
+<img src="pic/covidpolicy.png" width="55%" >
 
 #### 1.2.3 Time series plots
 - **Time series bubble plots**
 
-<img src="pic/disaster.png" width="90%" height="90%">
+<img src="pic/disaster.png" width="80%" height="80%">
 
 - **time series heatmap of drought condition**
 
-<img src="pic/droughtHeat.png" width="80%" height="80%">
+<img src="pic/droughtHeat.png" width="70%" height="70%">
 
 - **Mass Balance of Storglaciären**
 
