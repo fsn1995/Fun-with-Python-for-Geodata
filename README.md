@@ -18,18 +18,23 @@ Interactive figures or maps for:
 <img src="pic/temp.png" width="70%" height="70%">
 
 #### 1.2.2 COVID-19 related spatial visualization
-- [Total test per thousand people](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/TotalTestsCovid19.html)
+- [**Total test per thousand people**](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/TotalTestsCovid19.html)
 
 <img src="pic/testcovid19.png" width="70%" >
 
-- [Comparison of COVID-19 Case Growth and Government Response Stringency Index](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/covidpolicy.html)
+- [**Comparison of COVID-19 Case Growth and Government Response Stringency Index**](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/covidpolicy.html)
 
-<img src="pic/covidpolicy.png" width="55%" >
+<img src="pic/covidpolicy.png" width="50%" >
+
+- **Ridgeline Plot of COVID-19 Daily Cases**  
+[New Cases](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/covidNewCaseRidge.html) | [New Deaths](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/covidNewDeathRidge.html)
+
+<img src="pic/covidridge.png" width="85%" >
 
 #### 1.2.3 Time series plots
 - **Time series bubble plots**
 
-<img src="pic/disaster.png" width="80%" height="80%">
+<img src="pic/cause of death.png" width="50%" height="50%">
 
 - **time series heatmap of drought condition**
 
