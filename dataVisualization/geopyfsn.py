@@ -9,8 +9,13 @@ import numpy as np
 def getxy(rasterfile):
   """
   getxy is used for getting the x and y coordinates of the rasterfile.
-
+  
+  Parameters
+  ----------
   [rasterfile]: variable read by rasterio
+
+  Returns
+  -------
   [x,y]: the x, y coordinates of the input
 
   e.g.
