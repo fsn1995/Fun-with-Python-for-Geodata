@@ -2,7 +2,7 @@
 Personal practices in geodata analysis with python.
 ## 1. Data Visulization
 
-### 1.1 [covid-19 and Benford's law](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/covid19Benford.ipynb)
+### 1.1 [covid-19 and Benford's law](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/covid19Benford.ipynb)
 Benford's law is an interesting theory so I did some experiment with covid-19 data. It's out of my specialization so there's no gurantee in the accuracy and quality of this analysis. Be doubtful and just for fun.
 Here the screenshot is confirmed cases from three countries that I had lived. 
 <img src="pic/covidBenford.png" width="80%" height="80%">
@@ -56,6 +56,8 @@ Interactive figures or maps for:
 #### 1.3.1 [Interactive DEM viewer](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/dem3d.html)
 
 <img src="pic/dem.png" width="100%" height="100%">
+rapid flood spreading method (RFSM) practice
+<img src="pic/flood.png" width="60%" height="60%">
 
 ## 2. Automation
 ### 2.1 [EarthdataDownload.py](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/automation/EarthdataDownload.py)
