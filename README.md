@@ -30,6 +30,9 @@ Interactive figures or maps for:
 
 <img src="pic/covidridge.png" width="85%" >
 
+- **[Multi-line Tooltip of COVID-19 daily new cases per million by continents](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/covid19continent.html)**
+<img src="pic/covid19continent.png" >
+
 #### 1.2.3 Time series plots
 - **Time series bubble plots**
 
