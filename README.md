@@ -26,6 +26,8 @@ Here the screenshot is confirmed cases from three countries that I had lived.
 
 Note: After made the first test in April, I later found a correspondence article that support my assumption in May. (*Sambridge, M. and Jackson, A., 2020. National COVID numbers-Benford's law looks for errors. Nature, 581(7809), pp.384-384. doi: [10.1038/d41586-020-01565-5](https://www.nature.com/articles/d41586-020-01565-5)*).
 ### 1.2 **data visualization exercise** 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/DataVisual.ipynb)
+
 Scripts ([part1](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/DataVisual.ipynb)) or jupyter notebooks for processing, visualizing and analyzing data.Some are exported as interactive html files in [**dataVisualization**](https://github.com/fsn1995/Fun-with-Python-for-Geodata/tree/master/dataVisualization/dataVisualHTML) folder or for preview in the links given.  
 
 The [raw ipynb file](https://github.com/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/DataVisual.ipynb) contains contents of custom JavaScript plots will be rendered as static html (see [GitHub help](https://help.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github)), same for exported html files. 
@@ -74,6 +76,7 @@ Interactive figures or maps for:
 <img src="pic/generatortreemap.png" width="80%" height="80%">
 
 ### 1.3 [Raster Data Visualization](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/georasterVisual.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/georasterVisual.ipynb)
 #### 1.3.1 [Interactive DEM viewer](https://nbviewer.jupyter.org/github/fsn1995/Fun-with-Python-for-Geodata/blob/master/dataVisualization/dataVisualHTML/dem3d.html)
 
 <img src="pic/dem.png" width="100%" height="100%">
